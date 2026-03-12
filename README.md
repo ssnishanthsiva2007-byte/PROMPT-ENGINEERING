@@ -54,10 +54,16 @@ Step 7: Finalize and Export
 7.1 Format the report professionally
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
-
-
-
 # Output
+1.The foundational concepts of Generative AI were studied, including its ability to generate new content such as text, images, audio, and code using deep learning techniques.
 
+2.The Transformer architecture used in Generative AI models was analyzed. The key components identified include input embedding, positional encoding, self-attention mechanism, encoder–decoder structure, and feed-forward neural networks.
+
+3.The Generative AI architecture was examined along with its workflow such as data collection, preprocessing, model training, fine-tuning, and content generation. Various applications such as text generation, image generation, healthcare systems, education tools, and software development were observed.
+
+4.The impact of scaling in Large Language Models (LLMs) was understood. Increasing model parameters, training data, and computing resources improves model performance, reasoning capability, and language understanding.
+
+5.The working and construction of Large Language Models (LLMs) were studied. The process includes data collection, tokenization, model architecture design, pre-training, fine-tuning, evaluation, and deployment in real-world applications.
 
 # Result
+Thus, the foundational concepts of Generative AI, its architectures such as transformers, the applications of generative AI, the impact of scaling in Large Language Models, and the process of building LLMs were successfully studied and understood.
